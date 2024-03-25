@@ -1,0 +1,15 @@
+{
+    "name": "hp/ecommerce_app",
+    "autoload": {
+        "psr-4": {
+            "Hp\\EcommerceApp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "elmissaoui abdelouahed",
+            "email": "elmissaouiabdelouahed@gmail.com"
+        }
+    ],
+    "require": {}
+}
